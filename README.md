@@ -2,8 +2,11 @@ HW 3
 ===
 
 # Work Division
-Anthony - Theory 1, 2; practice 1,2
-Denae - Theory 3, 4; practice 3(skip if necessary)
+## Anthony
+Theory 1, 2; practice 1,2
+
+## Denae
+Theory 3, 4; practice 3(skip if necessary)
 
 
 # Resources
