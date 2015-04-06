@@ -2,7 +2,7 @@
 
 ## Bad smell stories
 
-- There are programmers who are not campable of completing this project since they have been trying to conform to using the tool. There is a learning curve between learning the language for the project which is extending the schedule.
+- There are programmers who are not capable of completing this project since they have been trying to conform to using the tool. There is a learning curve between learning the language for the project which is extending the schedule.
 
 Stink[('ltex','pcap')] = Stink[('sced','acap')] = \
 Stink[('sced','pexp')] = Stink[('sced','pcap')] = \
@@ -14,7 +14,7 @@ Stink[('sced','aexp')] = [
  [0,0,0,0,0,0],
  [0,0,0,0,0,0]]
 
-- We don't have the amount of main memory requirements expected for this project. The analyst on the team  had difficultilies understanding what was expected of this project and now we are in a pickle.
+- We don't have the amount of main memory requirements expected for this project. The analyst on the team  had difficulties understanding what was expected of this project and now we are in a pickle.
 
 
 Stink[('cplx','acap')] = Stink[('cplx','pcap')] = \
