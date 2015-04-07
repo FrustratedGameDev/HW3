@@ -134,3 +134,14 @@ Stink[('rely','pcap')] = [
 
 
 
+# Practice
+We spent several hours looking over the given source code and found the numbers very confusing. Thus while we actually found the below by modifying the values in the code, the output did not seem to be meaningful and is thus not included.
+
+## Task 1
+Making a treatment to decrease sced but increase rely made the stink worse but decreased the effort required.
+
+## Task 2
+Making a treatment to increase sced and increase rely made the stink better but increased the effort required.
+
+## Task 3
+Not attempted due to time.
